@@ -1,0 +1,17 @@
+body { background-color:lightblue
+}
+#first{ color: black
+
+}
+#second{
+	border: solid;
+	color: black
+	padding: 40px 40px
+	margin: 10px 10px
+}
+#css{
+	color: red
+}
+body{
+	text-align: center;
+}
